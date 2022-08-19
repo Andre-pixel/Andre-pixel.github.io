@@ -1,6 +1,6 @@
 
 body {
-	background-color: lightblue;
+	background-color: gray;
 }
 
 h1 {
@@ -30,6 +30,6 @@ li a {
 }
 
 li a:hover {
-  background-color: #555;
+  background-color: lightblue;
   color: white;
 }
